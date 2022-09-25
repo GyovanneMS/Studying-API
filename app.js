@@ -1,6 +1,6 @@
 /*
     Bibliotecas necessáris para a criação de uma API
-    express npm indtsll express --save
+    express -  npm indtsll express --save
     *express: Uma biblioteca para criar aplicações em NODE no formato de API
     
     
